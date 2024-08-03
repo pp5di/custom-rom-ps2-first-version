@@ -1,3 +1,15 @@
+Use it in the root of the disk. For example 'C:/CUSTOM'
+
+put your original ROM inside the 'CUSTOM' folder and rename it to 'rom.bin'
+
+Run 'MAKEROM.bat' and follow the instructions.
+
+If your custom ROM is generated without error, test it on your PS2 emulator
+
+So far I have only tested it with 79xxx and 90xxx series cards. The package contains scripts for other cards, but they need to be improved and tested on PS2 hardware. Not everything that runs on emulators can run on real hardware.
+
+
+
 
 Use na raiz do disco. Ex 'C:/CUSTOM'
 
