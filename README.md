@@ -10,7 +10,7 @@ So far I have only tested it with 79xxx and 90xxx series cards. The package cont
 
 
 
-
+(portuguese)
 Use na raiz do disco. Ex 'C:/CUSTOM'
 
 coloque sua rom original dentro da pasta 'CUSTOM' e a renomeie para 'rom.bin'
